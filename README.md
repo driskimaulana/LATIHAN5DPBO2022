@@ -4,19 +4,25 @@
 
 **Results**
 
-#### Ships Class (Vehicle) <br> <br>
+#### Display Menu <br><br>
 
-![alt text](https://github.com/driskimaulana/LATIHAN4DPBO2022/blob/main/Screenshots/Ships_Class.png)
+![alt text](https://github.com/driskimaulana/LATIHAN5DPBO2022/blob/main/ScreenShots/1.png)
 
-#### Airplane Class (Vehicle) <br> <br>
+#### Add Data <br> <br>
 
-![alt text](https://github.com/driskimaulana/LATIHAN4DPBO2022/blob/main/Screenshots/Airplane_Class.png)
+![alt text](https://github.com/driskimaulana/LATIHAN5DPBO2022/blob/main/ScreenShots/add.gif)
 
-#### Person Class <- Driver(Job) <br> <br>
+#### Update Data <br> <br>
 
-![alt text](https://github.com/driskimaulana/LATIHAN4DPBO2022/blob/main/Screenshots/Person_Class.png)
+![alt text](https://github.com/driskimaulana/LATIHAN5DPBO2022/blob/main/ScreenShots/update.gif)
 
+#### Delete Data <br> <br>
 
+![alt text](https://github.com/driskimaulana/LATIHAN5DPBO2022/blob/main/ScreenShots/delete.gif)
+
+#### Cancel <br> <br>
+
+![alt text](https://github.com/driskimaulana/LATIHAN5DPBO2022/blob/main/ScreenShots/cancel.gif)
 
 ## Terima Kasih
 
